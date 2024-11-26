@@ -1,0 +1,29 @@
+{
+  "name": "@krabba/react",
+  "author": "Krabba",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "A React UI library.",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "keywords": [
+    "react",
+    "ui",
+    "components",
+    "frontend",
+    "design"
+  ],
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.7.2"
+  }
+}

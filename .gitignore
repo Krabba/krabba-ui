@@ -1,0 +1,13 @@
+# Node
+node_modules
+
+# PNPM
+.pnpm-debug.log*
+
+# Misc
+.DS_Store
+*.pem
+
+# TypeScript
+tsconfig.tsbuildinfo
+dist
