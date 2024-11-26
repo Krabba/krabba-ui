@@ -3,7 +3,6 @@
   "author": "Krabba",
   "version": "0.0.0",
   "license": "MIT",
-  "description": "A React UI library.",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
