@@ -14,6 +14,7 @@
     "pnpm": ">=9"
   },
   "scripts": {
+    "dev": "pnpm --filter ./apps/react-vite dev",
     "build:packages": "tsc -b packages/*",
     "build": "pnpm build:packages"
   },
